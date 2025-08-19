@@ -1,0 +1,5 @@
+{
+  "base_url": "https://<YOUR-LAMBDA-URL>",
+  "region": "us-east-1",
+  "profile": "lfi"
+}
