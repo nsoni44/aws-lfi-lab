@@ -56,11 +56,7 @@ aws-lfi-lab/
 
 ## Installation
 
-1. **Clone the repository:**
-   ```powershell
-   git clone https://github.com/nsoni44/aws-lfi-lab.git
-   cd aws-lfi-lab
-   ```
+
 
 2. **Install dependencies:**
    ```powershell
